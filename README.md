@@ -6,8 +6,8 @@ Je m'appelle **Sylvain François** et je suis un développeur web et web mobile 
 
 ### 💡 Ce qui me passionne :
 - Relever des défis !
-- Développement fullstack avec **Node.js**, **React**, et **MongoDB**.
-- Conception d'applications mobiles avec **React Native**.
+- Développement fullstack.
+- Conception d'applications mobiles.
 - Exploration des nouvelles technologies et des frameworks émergents.
 - Résolution de problèmes complexes et optimisation du code.
 
