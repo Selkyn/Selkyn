@@ -31,4 +31,4 @@ Mon objectif professionnel est de continuer à travailler sur des projets ambiti
 ### 📫 Comment me contacter :
 - Email : sylfra09@gmail.com
 - GitHub : [Selkyn](https://github.com/Selkyn)
-- LinkedIn : [Ton Profil LinkedIn](linkedin.com/in/sylvain-francois-ba46182b8)
+- LinkedIn : [Mon Profil LinkedIn](linkedin.com/in/sylvain-francois-ba46182b8)
