@@ -32,3 +32,13 @@ Mon objectif professionnel est de continuer à travailler sur des projets ambiti
 - Email : sylfra09@gmail.com
 - GitHub : [Selkyn](https://github.com/Selkyn)
 - LinkedIn : www.linkedin.com/in/sylvain-francois-ba46182b8
+
+<h1 align="center">📊  Github Stats</h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khaledik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=selkyn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=selkyn&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+</div>
