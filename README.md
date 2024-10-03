@@ -56,7 +56,13 @@ Je m'appelle **Sylvain François** et je suis un développeur web et web mobile 
 - 🔗 nRF Connect - Modification du logiciel nRF Connect pour l'adapter à l'entreprise PRIMAL situé à Clapiers : Encryptage et Décryptage de données avec AES. Apprentissage des fonctionnements de modules BLUETOOTH
 - 🔗 O.P.A SUD - Développement d'une application mobile et un pannel Admin pour l'entreprise O.P.A SUD située à Lunel. **En cours de développement**
 
-### 🎯 Mon objectif :
+
+###
+
+
+<h1 align="center">🎯 Mon objectif</h1>
+
+###
 Mon objectif professionnel est de continuer à travailler sur des projets ambitieux et d'acquérir une expertise solide dans le développement d'applications web et mobiles. J'aspire à rejoindre une équipe dynamique où je pourrai contribuer et apprendre aux côtés de développeurs expérimentés.
 
 ### 📫 Comment me contacter :
