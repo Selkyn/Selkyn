@@ -22,8 +22,6 @@ Je m'appelle **Sylvain François** et je suis un développeur web et web mobile 
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
@@ -50,7 +48,6 @@ Je m'appelle **Sylvain François** et je suis un développeur web et web mobile 
 ###
 
 
-### 🌟 Projets récents :
 <h1 align="center">🌟 Projets récents</h1>
 
 ###
