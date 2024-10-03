@@ -2,12 +2,11 @@
 
 ### Développeur Web et Mobile Fullstack 🚀
 
-Je m'appelle **Sylvain François** et je suis un développeur web et web mobile fullstack passionné. Ce qui me motive, c'est relever des défis dans le monde du développement et repousser mes limites techniques. Mon objectif est d'apprendre constamment et d'expérimenter les nouvelles technologies pour améliorer mes compétences et proposer des solutions innovantes.
+Je m'appelle **Sylvain François** et je suis développeur web et web mobile fullstack. Ce qui me motive, c'est relever des défis dans le monde du développement et repousser mes limites techniques. Mon objectif est d'apprendre constamment et d'expérimenter les nouvelles technologies pour améliorer mes compétences et proposer des solutions innovantes.
 
 ### 💡 Ce qui me passionne :
 - Relever des défis !
 - Développement fullstack.
-- Conception d'applications mobiles.
 - Exploration des nouvelles technologies et des frameworks émergents.
 - Résolution de problèmes complexes et optimisation du code.
 
