@@ -11,7 +11,7 @@ Je m'appelle **Sylvain François** et je suis un développeur web et web mobile 
 - Exploration des nouvelles technologies et des frameworks émergents.
 - Résolution de problèmes complexes et optimisation du code.
 
-<h1 align="center">💻 Languages and Tools</h1>
+<h1 align="center">💻 Langages et Outils</h1>
 
 ###
 
@@ -51,6 +51,10 @@ Je m'appelle **Sylvain François** et je suis un développeur web et web mobile 
 
 
 ### 🌟 Projets récents :
+<h1 align="center">🌟 Projets récents</h1>
+
+###
+
 - 🔗 Run and Smile - Développement d'une application mobile pour voir des parcours de santé sur une map google avec REACT NATIVE et EXPO. Backend avec Node.js et Express
 - 🔗 nRF Connect - Modification du logiciel nRF Connect pour l'adapter à l'entreprise PRIMAL situé à Clapiers : Encryptage et Décryptage de données avec AES. Apprentissage des fonctionnements de modules BLUETOOTH
 - 🔗 O.P.A SUD - Développement d'une application mobile et un pannel Admin pour l'entreprise O.P.A SUD située à Lunel. **En cours de développement**
