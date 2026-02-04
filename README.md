@@ -37,6 +37,8 @@ Je m'appelle **Sylvain François** et je suis développeur web et web mobile ful
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
+  <img src="https://img.icons8.com/color/1200/expo.jpg" height="40" alt="expo logo" />
+  <img width="12" />
 </div>
 
 ###
