@@ -23,11 +23,7 @@ Je m'appelle **Sylvain François** et je suis développeur web et web mobile ful
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -41,7 +37,6 @@ Je m'appelle **Sylvain François** et je suis développeur web et web mobile ful
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo"  />
 </div>
 
 ###
@@ -53,8 +48,9 @@ Je m'appelle **Sylvain François** et je suis développeur web et web mobile ful
 
 - 🔗 Run and Smile - Développement d'une application mobile pour voir des parcours de santé sur une map google avec REACT NATIVE et EXPO. Backend avec Node.js et Express
 - 🔗 nRF Connect - Modification du logiciel nRF Connect pour l'adapter à l'entreprise PRIMAL situé à Clapiers : Encryptage et Décryptage de données avec AES. Apprentissage des fonctionnements de modules BLUETOOTH
-- 🔗 O.P.A SUD - Développement d'une application mobile et un pannel Admin pour l'entreprise O.P.A SUD située à Lunel. **En cours de développement**
-
+- 🔗 O.P.A SUD - Développement d'une application mobile et un pannel Admin pour l'entreprise O.P.A SUD située à Lunel.
+- 🔗 ArcaCode.dev - Freelance.
+- 🔗 SAAS - Création d'une application mobile et pannel admin pour les entreprises itinérantes. ***En cours de développement***
 
 ###
 
