@@ -64,6 +64,7 @@ Mon objectif professionnel est de continuer à travailler sur des projets ambiti
 
 ### 📫 Comment me contacter :
 - Email : sylfra09@gmail.com
+- Email pro : contact@arcacode.dev
 - GitHub : [Selkyn](https://github.com/Selkyn)
 - LinkedIn : www.linkedin.com/in/sylvain-francois-ba46182b8
 
